@@ -4,3 +4,6 @@ Whenever you start making changes, you should do a "pull" request. This will dow
 
 This website is a guide to how this works.
 https://guides.github.com/activities/hello-world/   
+
+Download this for Visual Studio 
+https://git-scm.com/download/win
