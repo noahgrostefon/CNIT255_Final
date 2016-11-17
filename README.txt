@@ -1,4 +1,4 @@
-Everyone needs to create their own Github free account.Any work that you do must be saved and then "pushed" to the master branch. 
+Everyone needs to create their own Github free account. Any work that you do must be saved and then "pushed" to the master branch. 
 
 Before you start making changes, you should do a "pull" request. This will download all of the updated files from the master branch into your branch so you can work with the most recent changes.
 

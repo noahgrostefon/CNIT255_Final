@@ -7,7 +7,7 @@ namespace Movie_Database
 {
     public class Movie
     {
-        private int title;
+        private string title;
         private int runtime;
         private int boxOffice;
     }

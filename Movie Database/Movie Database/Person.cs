@@ -7,9 +7,9 @@ namespace Movie_Database
 {
     public class Person
     {
-        private int firstName;
-        private int lastName;
-        private int birthYear;
-        private int countryOfOrigin;
+        private string firstName;
+        private string lastName;
+        private string birthYear;
+        private string countryOfOrigin;
     }
 }
