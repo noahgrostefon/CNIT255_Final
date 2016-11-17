@@ -181,7 +181,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(49, 13);
             this.label4.TabIndex = 15;
-            this.label4.Text = "Release:";
+            this.label4.Text = "realeaseYear:";
             // 
             // label5
             // 
